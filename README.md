@@ -1,6 +1,6 @@
 <div align="center">
-<!-- Replace the text/colors below if you'd like a different look -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:312e81,50:09090b,100:000000&text=Mustafa%20Elahi&fontColor=ffffff&fontSize=48&fontAlignY=45&desc=Software%20Developer%20%7C%20Web%20Development&descAlignY=65&descSize=18&stroke=ffffff&strokeWidth=1" alt="Mustafa Elahi — Software Developer" />
+  <!-- PREMIUM PROFILE HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050816,35:111827,70:064e3b,100:10b981&text=MUSTAFA%20ELAHI&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=BUILDING%20THE%20WEB%20%E2%80%A2%20LEARNING%20EVERY%20DAY&descSize=14&descAlignY=60&animation=fadeIn" alt="Mustafa Elahi — Developer profile banner" />
 👋 Hi, I'm Mustafa Elahi
 💻 Aspiring Web Developer | Front-End Development | SQL
 I enjoy building responsive websites, exploring web technologies, and learning through practical projects.
